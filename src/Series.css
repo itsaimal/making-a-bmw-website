@@ -1,0 +1,37 @@
+
+.series {
+    display: flex;
+    position: absolute;
+   
+}
+
+.series__left > h3{
+margin-top: 200px;
+margin-right: 30px;
+margin-left: 30px;
+color: grey;
+cursor: pointer;
+transition: ease-in;
+;
+
+}
+
+.series__left > h3:hover {
+    color: black;
+    border-bottom: 5px solid rgb(40, 40, 194);
+    transition: ease-in;
+}
+
+.series__right > h3{
+margin-top: 200px;
+cursor: pointer;
+color: grey;
+
+}
+
+
+.series__right > h3:hover {
+    color: black;
+    border-bottom: 5px solid rgb(40, 40, 194);
+    transition: ease-in;
+}

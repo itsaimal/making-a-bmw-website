@@ -1,0 +1,21 @@
+.serieslist{
+    display: flex;
+    margin-top: 300px;
+    border-top: 2px solid gray;
+    border-bottom:2px solid gray;
+    
+
+}
+
+.serieslist > h2 {
+    margin-right: 40px;
+    font-size: 20px;
+    color: grey;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    cursor: pointer;
+}
+
+.serieslist > h2:hover {
+color: black;
+}
