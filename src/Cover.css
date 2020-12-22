@@ -5,3 +5,35 @@
 
     
 }
+
+.cover h2 {
+    margin-top: -450px;
+    color: white;
+    margin-left: 30px;
+    width: 1000px;
+    font-size: 50px;
+    font-weight: 150;
+   
+}
+
+
+.cover h5 {
+    margin-top: 10px;
+    color: white;
+    margin-left: 30px;
+    width: 1200px;
+    font-size: 20px;
+    font-weight: 150;
+   
+}
+
+.cover Button {
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 300px;
+    height: 50px;
+    background-color: rgb(43, 43, 224);
+   
+}
+
+
