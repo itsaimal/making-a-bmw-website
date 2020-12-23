@@ -1,0 +1,37 @@
+.header__fake{
+    background-color: rgba(240, 255, 240, 0);
+}
+
+
+.headervert {
+    background-color: rgb(45, 45, 236);
+    width: 70px;
+    height: 200px;
+ margin-top: 140px;
+margin-left: 1285px;
+position: fixed;
+   
+    z-index: 200;
+    border-radius: 10px;
+}
+
+
+
+.head__one {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    border-bottom: 1px solid gray;
+}
+.head__two {
+    position: relative;
+    top: 20px;
+    left: 10px;
+    border-bottom: 1px solid gray;
+}
+.head__three {
+    position: relative;
+    top: 30px;
+    left: 10px;
+  
+}

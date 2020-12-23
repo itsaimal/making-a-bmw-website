@@ -21,9 +21,9 @@ function Header() {
             { /*right */}
 
             <div className="header__right">
-           < DirectionsCarIcon style={{fill: "white" , fontSize:"50"}}/>
-           <SearchIcon style={{fill: "white" , fontSize:"50"}}/>
-           <LocationOnIcon style={{fill: "white", fontSize:"50"}}/>
+           < DirectionsCarIcon className="one" style={{fill: "white" , fontSize:"50"}}/>
+           <SearchIcon className="two" style={{fill: "white" , fontSize:"50"}}/>
+           <LocationOnIcon className="three" style={{fill: "white", fontSize:"50"}}/>
            <img src="https://www.bmw.se/etc/clientlibs/digitals2/clientlib/media/img/BMW_White_Logo.svg "/>
 
             </div>

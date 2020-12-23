@@ -21,3 +21,71 @@
 .seriescars__card Button {
     margin-left: 580px;
 }
+
+
+@media screen and (min-width:240px){
+    .seriescars {
+        background-color: white;
+        width: 100%;
+        height: 60vh;
+        margin-top: 500px;
+    }
+    
+    .seriescars__card h1 {
+        color: grey;
+        position: relative;
+        margin-left: 60px;
+        font-size: 50px;
+        top:-140px;
+        font-weight: 50;
+        
+    }
+    .seriescars__card img {
+        margin-left: -20px;
+        margin-top: -250px;
+        
+    }
+    
+    .seriescars__card Button {
+        margin-left: 80px;
+    }
+}
+
+
+
+@media screen and (min-width:768px) {
+
+
+    .seriescars {
+        background-color: white;
+        width: 100%;
+        height: 60vh;
+        margin-top: 600px;
+    }
+    
+    .seriescars__card h1 {
+        color: grey;
+        margin-left: 400px;
+        font-size: 100px;
+        font-weight: 100;
+        z-index: -1;
+        
+    }
+    .seriescars__card img {
+        margin-left: 400px;
+        margin-top: -300px;
+        z-index: 100;
+        
+    }
+    
+    .seriescars__card Button {
+        margin-left: 580px;
+    }
+}
+
+
+
+
+
+
+

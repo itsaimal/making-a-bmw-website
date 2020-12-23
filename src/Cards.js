@@ -1,5 +1,6 @@
 import React from 'react'
 import "./Cards.css"
+import Button from '@material-ui/core/Button';
 
 function Cards() {
     return (
@@ -25,13 +26,16 @@ function Cards() {
       <p> .Four wheel drive</p>
       <br/>
       <p> .Upto 52km electric range</p>
+      <Button variant="contained" color="primary">See all details</Button>
     </div>
     <a href="#">
       <div className="property-social-icons">
-
+      
       </div>
     </a>
+   
   </div>
+  
 </div>
 
   </div>
@@ -53,10 +57,11 @@ function Cards() {
       <p> .First BMW 5 series as a plugin hybrid</p>
       <br/>
       <p> .Upto 51km electric range</p>
+      <Button variant="contained" color="primary">See all details</Button>
     </div>
     <a href="#">
       <div className="property-social-icons">
-
+     
       </div>
     </a>
   </div>
@@ -82,10 +87,11 @@ function Cards() {
       <p> .xDriving for maximum pleasure</p>
       <br/>
       <p> .Upto 60km electric range</p>
+      <Button variant="contained" color="primary">See all details</Button>
     </div>
     <a href="#">
       <div class="property-social-icons">
-
+  
       </div>
     </a>
   </div>
